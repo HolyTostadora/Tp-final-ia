@@ -1,5 +1,0 @@
-streamlit
-tensorflow==2.10.0  # Cambia a una versión específica compatible
-Pillow
-numpy
-h5py
